@@ -1,2 +1,2 @@
-# quicktest
+# libSQLite
 a test project
